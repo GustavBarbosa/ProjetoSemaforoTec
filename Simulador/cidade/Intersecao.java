@@ -1,4 +1,4 @@
-package cidade;
+package Simulador.cidade;
 
 public class Intersecao {
     private String nome; // exemplo Avenida Central com Rua 10
